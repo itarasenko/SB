@@ -1,6 +1,6 @@
 10
 20 change 1
-30
+30 change 4
 40 change 3		
 50 change 2
 60
