@@ -3,8 +3,8 @@
 30 change 44
 40 change 33		
 50 change 222
-60 change  777
-70 
+60 
+70 change  777
 80   
 90 
 100   
